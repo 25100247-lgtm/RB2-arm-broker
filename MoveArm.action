@@ -1,0 +1,11 @@
+# Goal
+string client_id
+uint8 priority
+float64[] joint_positions
+---
+# Result
+bool success
+string message
+---
+# Feedback
+float32 progress

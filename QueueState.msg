@@ -1,0 +1,10 @@
+builtin_interfaces/Time stamp
+string policy
+uint32 queue_length
+string executing_client
+string[] pending_clients
+uint8[] pending_priorities
+float32[] pending_wait_s
+uint32 accepted
+uint32 rejected
+uint32 completed
